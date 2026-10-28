@@ -1,0 +1,21 @@
+{
+  "cash_out_before_stage": 46,
+  "race_limit": 45,
+  "repeat_runs": true,
+  "entry_initial_delay_seconds": 1.0,
+  "entry_hold_seconds": 1.5,
+  "entry_retry_seconds": 1.0,
+  "target_fps": 120,
+  "shift_lead_ms": 12,
+  "shift_cooldown_ms": 180,
+  "max_gears": 9,
+  "monitor": 1,
+  "gauges": {},
+  "gauge_profile": {
+    "reference_width": 1920,
+    "reference_height": 1080,
+    "cx": 960,
+    "cy": 915,
+    "radius": 163
+  }
+}
